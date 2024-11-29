@@ -2,7 +2,7 @@ name: Dependencies
 on:
   push:
     branches:
-      - master
+      - history-rework
     paths:
       - "Cargo.toml"
       - "Cargo.lock"
